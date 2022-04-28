@@ -4,6 +4,7 @@
 ## Programming Languages
 * Python 
 * Jupyter Notebook
+* XML
 
 ## Contributer Profile
 <!-- Tables -->
