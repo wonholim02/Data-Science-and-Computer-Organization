@@ -14,6 +14,7 @@
 
 ## Programming Languages
 * Python 
+* SQL
 * R
 * JupyterLab
 
