@@ -1,4 +1,3 @@
-![](https://placehold.it/950x90/FF4500/fff?text=Welcome!)
 # Data Science
 
 ## Contributer Information
