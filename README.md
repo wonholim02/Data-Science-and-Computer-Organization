@@ -15,6 +15,5 @@
 * Python 
 * SQL
 * R
-* JupyterLab
 
 ![](https://wallpaperaccess.com/full/1325090.jpg)
