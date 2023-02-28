@@ -15,5 +15,6 @@
 * Python 
 * SQL
 * R
+* Assembly
 
 ![](https://wallpaperaccess.com/full/1325090.jpg)
