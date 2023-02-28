@@ -16,5 +16,6 @@
 * SQL
 * R
 * Assembly
+* C
 
 ![](https://wallpaperaccess.com/full/1325090.jpg)
