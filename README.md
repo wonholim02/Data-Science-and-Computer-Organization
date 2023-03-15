@@ -16,4 +16,9 @@
 * SQL
 * R
 
+## Directoriees
+* Artificial Intelligence
+* Data Mining
+* Robotics and Optimization
+
 ![](https://wallpaperaccess.com/full/1325090.jpg)
