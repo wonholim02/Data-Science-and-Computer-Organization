@@ -1,4 +1,4 @@
-# Data Science
+# Data Science & Robotics
 
 ## Contributer Information
 <!-- Tables -->
